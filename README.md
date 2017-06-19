@@ -9,6 +9,10 @@
 - wangEditor (富文本编辑器)
 - weathericons (天气图标)
 
+## 使用字体
+- 英文: CONSTANB
+- 中文: 方正清刻本悦宋简体
+
 ## 预览
 ![image](https://github.com/ShoryLee/TimeLineDiary/blob/master/TimeLineDiary.jpg)
 
